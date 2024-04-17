@@ -9,20 +9,20 @@ const but1 = document.getElementById('but1').addEventListener('click', () => {
 })
 
 const but2 = document.getElementById('but2').addEventListener('click', () => {
-    bandTitles.innerText='Sheffield College'
+    bandTitles.innerText='Creative DJ School'
     bandImage.src ="https://images.pexels.com/photos/1309240/pexels-photo-1309240.jpeg?auto=compress&amp;cs=tinysrgb&amp;fit=crop&amp;h=625.0&amp;sharp=10&amp;w=1000" 
 })
 
 const but3 = document.getElementById('but3').addEventListener('click', () => {
-    bandTitles.innerText='Darlin'
+    bandTitles.innerText='Battle of the bands'
 })
 
 const but4 = document.getElementById('but4').addEventListener('click', () => {
-    bandTitles.innerText='Creative DJ School'
+    bandTitles.innerText='Rock School'
 })
 
 const but5 = document.getElementById('but5').addEventListener('click', () => {
-    bandTitles.innerText='Lunarca'
+    bandTitles.innerText='Alfie Darlin'
 })
 
 const but6 = document.getElementById('but6').addEventListener('click', () => {
@@ -30,17 +30,25 @@ const but6 = document.getElementById('but6').addEventListener('click', () => {
 })
 
 const but7 = document.getElementById('but7').addEventListener('click', () => {
-    bandTitles.innerText='Sheffield Music School'
+    bandTitles.innerText='Jube'
 })
 
 const but8 = document.getElementById('but8').addEventListener('click', () => {
-    bandTitles.innerText='Jodie Rose'
+    bandTitles.innerText='Creative DJ School'
 })
 
 const but9 = document.getElementById('but9').addEventListener('click', () => {
-    bandTitles.innerText='Glass Rhino'
+    bandTitles.innerText='Goergia Mills'
 })
 
 const but10 = document.getElementById('but10').addEventListener('click', () => {
-    bandTitles.innerText='Geoff T'
+    bandTitles.innerText='Matic Mouth'
+})
+
+const but11 = document.getElementById('but11').addEventListener('click', () => {
+    bandTitles.innerText='Battle of the bands'
+})
+
+const but12 = document.getElementById('but12').addEventListener('click', () => {
+    bandTitles.innerText='Andy H'
 })
