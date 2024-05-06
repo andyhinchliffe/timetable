@@ -34,7 +34,9 @@ const but4 = document.getElementById('but4').addEventListener('click', () => {
 
 const but5 = document.getElementById('but5').addEventListener('click', () => {
     bandTitles.innerText='The Unbroken'
-    bioText.innerText=''
+    bioText.innerText=`70s rock classics performed true to style, with a couple of modern(ish) ones thrown in for good measure! Formed in 2023,
+    found in 1973 - fun guaranteed, flares optional.`
+    bandImage.src ="unbroken.jpg"
 })
 
 const but6 = document.getElementById('but6').addEventListener('click', () => {
@@ -87,8 +89,8 @@ const but13 = document.getElementById('but13').addEventListener('click', () => {
 
 const but14 = document.getElementById('but14').addEventListener('click', () => {
     bandTitles.innerText='Lexi'
-    bandImage.src ="placeholder.jpg"
-    bioText.innerText=''
+    bandImage.src ="lexi.jpg"
+    bioText.innerText='Lexi is fresh from her Australian tour and is now back in her hometown ready to bring you some toe tapping anthems. Lexi is a singer-songwriter that will have youall singing along to her indie pop tunes.'
 })
 
 const but15 = document.getElementById('but15').addEventListener('click', () => {
