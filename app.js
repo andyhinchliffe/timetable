@@ -11,7 +11,7 @@ const but1 = document.getElementById('but1').addEventListener('click', () => {
 })
 
 const but2 = document.getElementById('but2').addEventListener('click', () => {
-    bandTitles.innerText='Kelci Leigh (WaterBear)'
+    bandTitles.innerText='Kelci Leigh (Sheffield College)'
     bandImage.src ="image2.jpg" 
     bioText.innerText="With a focus on innovation and creativity, WaterBear empowers the next gen musicians and industry creatives to excel across various disciplines, preparing them for success in today's music industry."
 })
@@ -36,8 +36,8 @@ const but4 = document.getElementById('but4').addEventListener('click', () => {
 
 const but5 = document.getElementById('but5').addEventListener('click', () => {
     bandTitles.innerText='The Unbroken'
-    bandImage.src ="placeholder.jpg" 
-    bioText.innerText='test'
+    bandImage.src ="unbroken.jpg" 
+    bioText.innerText='70s rock classics performed true to style, with a couple of modern(ish) ones thrown in for good measure! Formed in 2023, found in 1973 - fun guaranteed, flares optional.'
 })
 
 const but6 = document.getElementById('but6').addEventListener('click', () => {

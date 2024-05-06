@@ -24,8 +24,8 @@ const but13 = document.getElementById('but13').addEventListener('click', () => {
 
 const but14 = document.getElementById('but14').addEventListener('click', () => {
     bandTitles.innerText='Lexi'
-    bandImage.src ="placeholder.jpg" 
-    bioText.innerText=""
+    bandImage.src ="lexi.jpg" 
+    bioText.innerText="Lexi is fresh from her Australian tour and is now back in her hometown ready to bring you some toe tapping anthems. Lexi is a singer-songwriter that will have you all singing along to her indie pop tunes."
 })
 
 const but15 = document.getElementById('but15').addEventListener('click', () => {
