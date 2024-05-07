@@ -18,8 +18,8 @@ const but23 = document.getElementById('but23').addEventListener('click', () => {
 
 const but24 = document.getElementById('but24').addEventListener('click', () => {
     bandTitles.innerText='Rogue'
-    bandImage.src ="placeholder.jpg" 
-    bioText.innerText=""
+    bandImage.src ="image24.jpg" 
+    bioText.innerText="Featuring the delightful, powerful vocals of Hannah Lily, a four-piece band with the very talented Chris Firminger on guitar, Jon Wynn on Bass and Tom Bryson on Drums. Performing an eclectic mix of songs, full of Sheffield Soul and grit."
 
 })
 
