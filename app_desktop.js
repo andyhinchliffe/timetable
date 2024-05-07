@@ -3,7 +3,7 @@ const bandImage = document.getElementById('bandImage')
 
 
 const but1 = document.getElementById('but1').addEventListener('click', () => {
-    bandTitles.innerText='Kali (WaterBear)'
+    bandTitles.innerText='Kali (Sheffield College)'
     bandImage.src ="image1.jpg"
     bioText.innerText="With a focus on innovation and creativity, WaterBear empowers the next gen musicians and industry creatives to excel across various disciplines, preparing them for success in today's music industry."
     
