@@ -18,6 +18,7 @@ const but2 = document.getElementById('but2').addEventListener('click', () => {
 const but2_5 = document.getElementById('but2_5').addEventListener('click', () => {
     bandTitles.innerText='Sheffield College'
     bandImage.src ="placeholder.jpg"
+    bioText.innerText="Sheffield College
 })
 
 const but3 = document.getElementById('but3').addEventListener('click', () => {
