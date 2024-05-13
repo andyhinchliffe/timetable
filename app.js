@@ -29,25 +29,25 @@ const but3 = document.getElementById('but3').addEventListener('click', () => {
 })
 
 const but4 = document.getElementById('but4').addEventListener('click', () => {
-    bandTitles.innerText='Creative DJ School'
+    bandTitles.innerText='Romeo (Creative DJ School)'
     bandImage.src ="image5.jpg" 
-    bioText.innerText='Creative DJ school opened in 2019, offering DJ and Music Production tuition for schools, charities, festivals and the general public.'
+    bioText.innerText='A year 10 student. He has been DJing for twelve months and already performed twice at his school.Creative DJ school opened in 2019, offering DJ and Music ProductionTu for schools, charities, fundraising and the general public.'
 })
 
 const but5 = document.getElementById('but5').addEventListener('click', () => {
-    bandTitles.innerText='The Unbroken'
+    bandTitles.innerText='The Unbroken (Talent Scout Night)'
     bandImage.src ="unbroken.jpg" 
     bioText.innerText='70s rock classics performed true to style, with a couple of modern(ish) ones thrown in for good measure! Formed in 2023, found in 1973 - fun guaranteed, flares optional.'
 })
 
 const but6 = document.getElementById('but6').addEventListener('click', () => {
-    bandTitles.innerText='Creative DJ School'
+    bandTitles.innerText='Ellijah and Thevindhu (Creative DJ School)'
     bandImage.src ="image5.jpg" 
-    bioText.innerText='Creative DJ school opened in 2019, offering DJ and Music Production tuition for schools, charities, festivals and the general public.'
+    bioText.innerText='A year 8 student. Ellijah has been DJing for twelve months and already performed three sets, including a school music showcase in Birmingham. A year 8 student. Thevindhu started paired lessons with Ellijah around eight months ago. The Sheffield Food festival will be his first performance to an audience.'
 })
 
 const but7 = document.getElementById('but7').addEventListener('click', () => {
-    bandTitles.innerText='Faith And Star'
+    bandTitles.innerText='Faith And Star  (Sheffield Music School)'
     bandImage.src ="image7.jpg" 
     bioText.innerText='Faith and Star are Sheffield based singers drawing influence for their love of RnB, Gospel and hip hop.'
 })
@@ -67,5 +67,5 @@ const but9 = document.getElementById('but9').addEventListener('click', () => {
 const but10 = document.getElementById('but10').addEventListener('click', () => {
     bandTitles.innerText='Geoff T'
     bandImage.src ="image10.jpg" 
-    bioText.innerText='Geoff Ticehurst has spun alongside worldwide talent and played every genre you can think of at some point or another.'
+    bioText.innerText='Geoff Ticehurst has spun alongside worldwide talent and played every genre you can think of at some point or another.(DJing between acts throughout the day)'
 })

@@ -47,3 +47,9 @@ const but28 = document.getElementById('but28').addEventListener('click', () => {
     bioText.innerText="Kyla C is a regular on the dance, urban & soul nightclub scene sharing line-ups with many of the UK's biggest DJ's & artists."
 })
 
+const but31 = document.getElementById('but31').addEventListener('click', () => {
+    bandTitles.innerText='Bandanarama'
+    bandImage.src ="bandanarama640.jpg" 
+    bioText.innerText="Bandanarama bring a high energy mash up of disco, indie and rock hits with a New Orleans vibe specialising in parades and festival performances. Featuring a line-up of: Trumpets, Saxophones, Trombones, Piccolo, Flutes, Sousaphone and Drums. We have been preforming in parades and festivals since 2015, Audience participation is unavoidable the with well-known tunes getting everyone singing and dancing. We look like a group of rockers/bikers who are not just ‘Born to be Wild’ we are ‘Born to be Wild Fun!"
+})
+
