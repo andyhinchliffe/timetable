@@ -3,14 +3,14 @@ const bandImage = document.getElementById('bandImage')
 
 
 const but1 = document.getElementById('but1').addEventListener('click', () => {
-    bandTitles.innerText='Kali (Sheffield College)'
+    bandTitles.innerText='Kali (Waterbear Collage)'
     bandImage.src ="image1.jpg"
     bioText.innerText="With a focus on innovation and creativity, WaterBear empowers the next gen musicians and industry creatives to excel across various disciplines, preparing them for success in today's music industry."
     
 })
 
 const but2 = document.getElementById('but2').addEventListener('click', () => {
-    bandTitles.innerText='Kelci Leigh (WaterBear)'
+    bandTitles.innerText='Kelci Leigh (Sheffield College)'
     bandImage.src ="image2.jpg"
     bioText.innerText="With a focus on innovation and creativity, WaterBear empowers the next gen musicians and industry creatives to excel across various disciplines, preparing them for success in today's music industry."
 })
@@ -27,26 +27,26 @@ const but3 = document.getElementById('but3').addEventListener('click', () => {
 })
 
 const but4 = document.getElementById('but4').addEventListener('click', () => {
-    bandTitles.innerText='Creative DJ School'
+    bandTitles.innerText='Romeo (Creative DJ School)'
     bandImage.src ="image5.jpg"
-    bioText.innerText='Creative DJ school opened in 2019, offering DJ and Music ProductionTu for schools, charities, fundraising and the general public.'
+    bioText.innerText='A year 10 student from Hope Valley College. He has been DJing for twelve months and already performed twice at his school.Creative DJ school opened in 2019, offering DJ and Music ProductionTu for schools, charities, fundraising and the general public.'
 })
 
 const but5 = document.getElementById('but5').addEventListener('click', () => {
-    bandTitles.innerText='The Unbroken'
+    bandTitles.innerText='The Unbroken (Talent Scout Night)'
     bioText.innerText=`70s rock classics performed true to style, with a couple of modern(ish) ones thrown in for good measure! Formed in 2023,
     found in 1973 - fun guaranteed, flares optional.`
     bandImage.src ="unbroken.jpg"
 })
 
 const but6 = document.getElementById('but6').addEventListener('click', () => {
-    bandTitles.innerText='Creative DJ School'
+    bandTitles.innerText='Ellijah and Thevindhu (Creative DJ School)'
     bandImage.src ="image5.jpg"
-    bioText.innerText='Creative DJ school opened in 2019, offering DJ and Music ProductionTu for schools, charities, fundraising and the general public.'
+    bioText.innerText='A year 8 student from Parkwood Academy. Ellijah has been DJing for twelve months and already performed three sets, including a school music showcase in Birmingham. A year 8 student from Parkwood Academy. Thevindhu started paired lessons with Ellijah around eight months ago. The Sheffield Food festival will be his first performance to an audience.'
 })
 
 const but7 = document.getElementById('but7').addEventListener('click', () => {
-    bandTitles.innerText='Faith And Star'
+    bandTitles.innerText='Faith And Star (Sheffield Music School)'
     bandImage.src ="image7.jpg"
     bioText.innerText='Faith and Star are Sheffield based singers drawing influence for their love of RnB, Gospel and hip hop.'
 })
@@ -66,20 +66,20 @@ const but9 = document.getElementById('but9').addEventListener('click', () => {
 const but10 = document.getElementById('but10').addEventListener('click', () => {
     bandTitles.innerText='Geoff T'
     bandImage.src ="image10.jpg"
-    bioText.innerText='Geoff Ticehurst has spun alongside worldwide talent and played every genre you can think of at some point or another.'
+    bioText.innerText='Geoff Ticehurst has spun alongside worldwide talent and played every genre you can think of at some point or another. (DJing between acts throughout the day)'
 })
 
 const but11 = document.getElementById('but11').addEventListener('click', () => {
-    bandTitles.innerText='Mae Loughlin'
+    bandTitles.innerText='Mae Loughlin (Waterbear Collage)'
     bandImage.src ="image11.jpg"
     bioText.innerText="Hi, I'm Mae Loughlin, a non-binary, 19-year-old Indie/Folk musician originally from Lincoln."    
 })
 
-const but12 = document.getElementById('but12').addEventListener('click', () => {
-    bandTitles.innerText='Creative DJ School'
-    bandImage.src ="image5.jpg"
-    bioText.innerText='Creative DJ school opened in 2019, offering DJ and Music ProductionTu for schools, charities, fundraising and the general public.'
-})
+// const but12 = document.getElementById('but12').addEventListener('click', () => {
+//     bandTitles.innerText='Ellijah and Thevindhu'
+//     bandImage.src ="image5.jpg"
+//     bioText.innerText='A year 8 student from Parkwood Academy. Ellijah has been DJing for twelve months and already performed three sets, including a school music showcase in Birmingham. A year 8 student from Parkwood Academy. Thevindhu started paired lessons with Ellijah around eight months ago. The Sheffield Food festival will be his first performance to an audience.'
+// })
 
 const but13 = document.getElementById('but13').addEventListener('click', () => {
     bandTitles.innerText='Rock School Band'
@@ -100,16 +100,16 @@ const but15 = document.getElementById('but15').addEventListener('click', () => {
 })
 
 const but16 = document.getElementById('but16').addEventListener('click', () => {
-    bandTitles.innerText='Scarlet Kirwan'
+    bandTitles.innerText='Scarlet Kirwan (Talent Scout Night)'
     bandImage.src ="image16.jpg"
     bioText.innerText="17 year old singer-songwriter, Scarlett Kirwan has covered some amazing songs adapting them to suit her own unique style of singing such as Joni Mitchell, Eva Cassidy, Karen Carpenter, Taylor Swift, the list goes on."
 
 })
 
 const but16_5 = document.getElementById('but16_5').addEventListener('click', () => {
-    bandTitles.innerText='Creative DJ School'
+    bandTitles.innerText='Zach (Creative DJ School)'
     bandImage.src ="image5.jpg"
-    bioText.innerText='Creative DJ school opened in 2019, offering DJ and Music ProductionTu for schools, charities, fundraising and the general public.'
+    bioText.innerText='A year 7 student from Hope Valley College. Zach started DJ lessons 6 months ago and has never performed to an audience.'
 })
 
 const but17 = document.getElementById('but17').addEventListener('click', () => {
@@ -120,8 +120,9 @@ const but17 = document.getElementById('but17').addEventListener('click', () => {
 })
 
 const but18 = document.getElementById('but18').addEventListener('click', () => {
-    bandTitles.innerText='Creative DJ School'
+    bandTitles.innerText='Ellijah and Thevindhu (Creative DJ School)'
     bandImage.src ="image5.jpg"
+    bioText.innerText='A year 8 student from Parkwood Academy. Ellijah has been DJing for twelve months and already performed three sets, including a school music showcase in Birmingham. A year 8 student from Parkwood Academy. Thevindhu started paired lessons with Ellijah around eight months ago. The Sheffield Food festival will be his first performance to an audience.'
 })
 
 const but18_5 = document.getElementById('but18_5').addEventListener('click', () => {
@@ -137,7 +138,7 @@ const but19 = document.getElementById('but19').addEventListener('click', () => {
 })
 
 const but20 = document.getElementById('but20').addEventListener('click', () => {
-    bandTitles.innerText='Marcus William III'
+    bandTitles.innerText='Marcus William III (Talent Scout Night)'
     bandImage.src ="image20.jpg"
     bioText.innerText="Having supported David Gray, The Stranglers, Terrorvision and Glenn Tillbrook (squeeze) touring Europe and the UK in various bands over the years bringing his own brand of heartfelt upbeat original songs with a twist."
 })
@@ -145,7 +146,7 @@ const but20 = document.getElementById('but20').addEventListener('click', () => {
 const but21 = document.getElementById('but21').addEventListener('click', () => {
     bandTitles.innerText='Andy H'
     bandImage.src ="image21.jpg"
-    bioText.innerText="Having supported thousands of World class DJs and artists including Public Enemy, Chase & Status, De La Soul, Disclosure, DJ EZ, My Nu Leng, Major Lazer, Mark Ronson, Andy C, Jazzy Jeff, Annie Mac, Flying Lotus, Pendulum, Bonobo and countless others over the years, Andy has earned himself a reputation as a ‘DJs DJ’. "
+    bioText.innerText="Having supported thousands of World class DJs and artists including Public Enemy, Chase & Status, De La Soul, Disclosure, DJ EZ, My Nu Leng, Major Lazer, Mark Ronson, Andy C, Jazzy Jeff, Annie Mac, Flying Lotus, Pendulum, Bonobo and countless others over the years, Andy has earned himself a reputation as a ‘DJs DJ’. (DJing between acts throughout the day) "
 })
 
 // const but23 = document.getElementById('but23').addEventListener('click', () => {
@@ -191,6 +192,18 @@ const but27 = document.getElementById('but27').addEventListener('click', () => {
 const but28 = document.getElementById('but28').addEventListener('click', () => {
     bandTitles.innerText='Kyla C'
     bandImage.src ="image28.jpg"
-    bioText.innerText="Kyla C is a regular on the dance, urban & soul nightclub scene sharing line-ups with many of the UK's biggest DJ's & artists."
+    bioText.innerText="Kyla C is a regular on the dance, urban & soul nightclub scene sharing line-ups with many of the UK's biggest DJ's & artists.(DJing between acts throughout the day)"
+})
+
+const but30 = document.getElementById('but30').addEventListener('click', () => {
+    bandTitles.innerText='Yorkshire Tea Guy'
+    bandImage.src ="yorkshireteaguy640.jpg"
+    bioText.innerText="“I’m a lad from Yorkshire and I love my Yorkshire Tea!” It all started one Christmas morning with a 3 stringed guitar made by Spatchcock & Wurzil from a dining chair leg and a vintage Yorkshire Tea caddy. The best Christmas present a tea loving musician could hope for! I call it the ‘Teatar!’ A video clip of me playing it was sent to Yorkshire Tea who invited me up to Taylors of Harrogate. I ended up doing a gig in their offices and they invited me to be in their next TV Advert ‘Brewtopia’. That’s where the jacket came from... on set! They let me keep it. The rest as they say is history!"
+})
+
+const but31 = document.getElementById('but31').addEventListener('click', () => {
+    bandTitles.innerText='Bandanarama'
+    bandImage.src ="bandanarama640.jpg"
+    bioText.innerText="Bandanarama bring a high energy mash up of disco, indie and rock hits with a New Orleans vibe specialising in parades and festival performances. Featuring a line-up of: Trumpets, Saxophones, Trombones, Piccolo, Flutes, Sousaphone and Drums. We have been preforming in parades and festivals since 2015, Audience participation is unavoidable the with well-known tunes getting everyone singing and dancing. We look like a group of rockers/bikers who are not just ‘Born to be Wild’ we are ‘Born to be Wild Fun!"
 })
 
