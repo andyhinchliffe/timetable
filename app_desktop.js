@@ -30,7 +30,7 @@ const but3 = document.getElementById('but3').addEventListener('click', () => {
 const but4 = document.getElementById('but4').addEventListener('click', () => {
     bandTitles.innerText='Romeo (Creative DJ School)'
     bandImage.src ="image5.jpg"
-    bioText.innerText='A year 10 student from Hope Valley College. He has been DJing for twelve months and already performed twice at his school.Creative DJ school opened in 2019, offering DJ and Music ProductionTu for schools, charities, fundraising and the general public.'
+    bioText.innerText='A year 10 student. He has been DJing for twelve months and already performed twice at his school.Creative DJ school opened in 2019, offering DJ and Music ProductionTu for schools, charities, fundraising and the general public.'
 })
 
 const but5 = document.getElementById('but5').addEventListener('click', () => {
@@ -43,7 +43,7 @@ const but5 = document.getElementById('but5').addEventListener('click', () => {
 const but6 = document.getElementById('but6').addEventListener('click', () => {
     bandTitles.innerText='Ellijah and Thevindhu (Creative DJ School)'
     bandImage.src ="image5.jpg"
-    bioText.innerText='A year 8 student from Parkwood Academy. Ellijah has been DJing for twelve months and already performed three sets, including a school music showcase in Birmingham. A year 8 student from Parkwood Academy. Thevindhu started paired lessons with Ellijah around eight months ago. The Sheffield Food festival will be his first performance to an audience.'
+    bioText.innerText='A year 8 student. Ellijah has been DJing for twelve months and already performed three sets, including a school music showcase in Birmingham. A year 8 student. Thevindhu started paired lessons with Ellijah around eight months ago. The Sheffield Food festival will be his first performance to an audience.'
 })
 
 const but7 = document.getElementById('but7').addEventListener('click', () => {
@@ -110,7 +110,7 @@ const but16 = document.getElementById('but16').addEventListener('click', () => {
 const but16_5 = document.getElementById('but16_5').addEventListener('click', () => {
     bandTitles.innerText='Zach (Creative DJ School)'
     bandImage.src ="image5.jpg"
-    bioText.innerText='A year 7 student from Hope Valley College. Zach started DJ lessons 6 months ago and has never performed to an audience.'
+    bioText.innerText='A year 7 student. Zach started DJ lessons 6 months ago and has never performed to an audience.'
 })
 
 const but17 = document.getElementById('but17').addEventListener('click', () => {
@@ -123,7 +123,7 @@ const but17 = document.getElementById('but17').addEventListener('click', () => {
 const but18 = document.getElementById('but18').addEventListener('click', () => {
     bandTitles.innerText='Ellijah and Thevindhu (Creative DJ School)'
     bandImage.src ="image5.jpg"
-    bioText.innerText='A year 8 student from Parkwood Academy. Ellijah has been DJing for twelve months and already performed three sets, including a school music showcase in Birmingham. A year 8 student from Parkwood Academy. Thevindhu started paired lessons with Ellijah around eight months ago. The Sheffield Food festival will be his first performance to an audience.'
+    bioText.innerText='A year 8 student. Ellijah has been DJing for twelve months and already performed three sets, including a school music showcase in Birmingham. A year 8 student. Thevindhu started paired lessons with Ellijah around eight months ago. The Sheffield Food festival will be his first performance to an audience.'
 })
 
 const but18_5 = document.getElementById('but18_5').addEventListener('click', () => {
