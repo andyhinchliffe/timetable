@@ -5,7 +5,7 @@ const bandImage = document.getElementById('bandImage')
 const bioText = document.getElementById('bioText')
 
 const but11 = document.getElementById('but11').addEventListener('click', () => {
-    bandTitles.innerText='Mae Loughlin'
+    bandTitles.innerText='Mae Loughlin (Waterbear Collage)'
     bandImage.src ="image11.jpg"
     bioText.innerText="Hi, I'm Mae Loughlin, a non-binary, 19-year-old Indie/Folk musician originally from Lincoln."
 })
@@ -35,15 +35,15 @@ const but15 = document.getElementById('but15').addEventListener('click', () => {
 })
 
 const but6 = document.getElementById('but16').addEventListener('click', () => {
-    bandTitles.innerText='Scarlet Kirwan'
+    bandTitles.innerText='Scarlet Kirwan (Talent Scout Night)'
     bandImage.src ="image16.jpg" 
     bioText.innerText="17 year old singer-songwriter, Scarlett Kirwan has covered some amazing songs adapting them to suit her own unique style of singing such as Joni Mitchell, Eva Cassidy, Karen Carpenter, Taylor Swift, the list goes on."
 })
 
 const but16_5 = document.getElementById('but16_5').addEventListener('click', () => {
-    bandTitles.innerText='Creative DJ School'
+    bandTitles.innerText='Zach'
     bandImage.src ="image5.jpg" 
-    bioText.innerText="Creative DJ school opened in 2019, offering DJ and Music Production tuition for schools, charities, festivals and the general public."
+    bioText.innerText="A year 7 student. Zach started DJ lessons 6 months ago and has never performed to an audience."
 })
 
 const but8 = document.getElementById('but17').addEventListener('click', () => {
@@ -53,9 +53,9 @@ const but8 = document.getElementById('but17').addEventListener('click', () => {
 })
 
 const but17_5 = document.getElementById('but17_5').addEventListener('click', () => {
-    bandTitles.innerText='Creative DJ School'
+    bandTitles.innerText='Ellijah and Thevindhu (Creative DJ School)'
     bandImage.src ="image5.jpg" 
-    bioText.innerText="Creative DJ school opened in 2019, offering DJ and Music Production tuition for schools, charities, festivals and the general public."
+    bioText.innerText="A year 8 student. Ellijah has been DJing for twelve months and already performed three sets, including a school music showcase in Birmingham. A year 8 student. Thevindhu started paired lessons with Ellijah around eight months ago. The Sheffield Food festival will be his first performance to an audience."
 })
 
 const but18 = document.getElementById('but18').addEventListener('click', () => {
@@ -71,7 +71,7 @@ const but19 = document.getElementById('but19').addEventListener('click', () => {
 })
 
 const but20 = document.getElementById('but20').addEventListener('click', () => {
-    bandTitles.innerText='Marcus William III'
+    bandTitles.innerText='Marcus William III (Talent Scout Night)'
     bandImage.src ="image20.jpg" 
     bioText.innerText="Having supported David Gray, The Stranglers, Terrorvision and Glenn Tillbrook (squeeze) touring Europe and the UK in various bands over the years bringing his own brand of heartfelt upbeat original songs with a twist."
 })
@@ -79,5 +79,11 @@ const but20 = document.getElementById('but20').addEventListener('click', () => {
 const but21 = document.getElementById('but21').addEventListener('click', () => {
     bandTitles.innerText='Andy H'
     bandImage.src ="image21.jpg" 
-    bioText.innerText="Having supported thousands of World class DJs and artists including Public Enemy, Chase & Status, De La Soul, Disclosure, DJ EZ, My Nu Leng, Major Lazer, Mark Ronson, Andy C, Jazzy Jeff, Annie Mac, Flying Lotus, Pendulum, Bonobo and countless others over the years, Andy has earned himself a reputation as a ‘DJs DJ’. "
+    bioText.innerText="Having supported thousands of World class DJs and artists including Public Enemy, Chase & Status, De La Soul, Disclosure, DJ EZ, My Nu Leng, Major Lazer, Mark Ronson, Andy C, Jazzy Jeff, Annie Mac, Flying Lotus, Pendulum, Bonobo and countless others over the years, Andy has earned himself a reputation as a ‘DJs DJ’. (DJing between acts throughout the day)"
+})
+
+const but30 = document.getElementById('but30').addEventListener('click', () => {
+    bandTitles.innerText='Yorkshire Tea Guy'
+    bandImage.src ="yorkshireteaguy640.jpg" 
+    bioText.innerText="“I’m a lad from Yorkshire and I love my Yorkshire Tea!” It all started one Christmas morning with a 3 stringed guitar made by Spatchcock & Wurzil from a dining chair leg and a vintage Yorkshire Tea caddy. The best Christmas present a tea loving musician could hope for! I call it the ‘Teatar!’ A video clip of me playing it was sent to Yorkshire Tea who invited me up to Taylors of Harrogate. I ended up doing a gig in their offices and they invited me to be in their next TV Advert ‘Brewtopia’. That’s where the jacket came from... on set! They let me keep it. The rest as they say is history!"
 })
