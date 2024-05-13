@@ -17,9 +17,9 @@ const but2 = document.getElementById('but2').addEventListener('click', () => {
 })
 
 const but2_5 = document.getElementById('but2_5').addEventListener('click', () => {
-    bandTitles.innerText='Sheffield College'
-    bandImage.src ="placeholder.jpg" 
-    bioText.innerText=''
+    bandTitles.innerText='Rogue Division'
+    bandImage.src ="r_division.jpg" 
+    bioText.innerText="2022 was the year Sheffield Hard Rock outfit Rogue Division first came onto the scene. Featuring some of Sheffield’s finest musicians such as Ryley Donston (Lead Guitar), Ben Grayson (Drums), Theo Ferreyra (Bass), James Bickerton (Rhythm Guitar) and Will Thompson (Vocals) they wowed audiences all around Sheffield with their High Attitude approach to Hard Rock and Punk."
 })
 
 const but3 = document.getElementById('but3').addEventListener('click', () => {
