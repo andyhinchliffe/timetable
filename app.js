@@ -17,7 +17,7 @@ const but2 = document.getElementById('but2').addEventListener('click', () => {
 })
 
 const but2_5 = document.getElementById('but2_5').addEventListener('click', () => {
-    bandTitles.innerText='Rogue Division'
+    bandTitles.innerText='Rogue Division (Sheffield College)'
     bandImage.src ="r_division.jpg" 
     bioText.innerText="2022 was the year Sheffield Hard Rock outfit Rogue Division first came onto the scene. Featuring some of Sheffield’s finest musicians such as Ryley Donston (Lead Guitar), Ben Grayson (Drums), Theo Ferreyra (Bass), James Bickerton (Rhythm Guitar) and Will Thompson (Vocals) they wowed audiences all around Sheffield with their High Attitude approach to Hard Rock and Punk."
 })
@@ -31,7 +31,7 @@ const but3 = document.getElementById('but3').addEventListener('click', () => {
 const but4 = document.getElementById('but4').addEventListener('click', () => {
     bandTitles.innerText='Romeo (Creative DJ School)'
     bandImage.src ="image5.jpg" 
-    bioText.innerText='A year 10 student. He has been DJing for twelve months and already performed twice at his school.Creative DJ school opened in 2019, offering DJ and Music ProductionTu for schools, charities, fundraising and the general public.'
+    bioText.innerText='A year 10 student from Hope Valley College. He has been DJing for twelve months and already performed twice at his school.Creative DJ school opened in 2019, offering DJ and Music ProductionTu for schools, charities, fundraising and the general public.'
 })
 
 const but5 = document.getElementById('but5').addEventListener('click', () => {
@@ -41,9 +41,9 @@ const but5 = document.getElementById('but5').addEventListener('click', () => {
 })
 
 const but6 = document.getElementById('but6').addEventListener('click', () => {
-    bandTitles.innerText='Ellijah and Thevindhu (Creative DJ School)'
+    bandTitles.innerText='Elijah and Thevindhu (Creative DJ School)'
     bandImage.src ="image5.jpg" 
-    bioText.innerText='A year 8 student. Ellijah has been DJing for twelve months and already performed three sets, including a school music showcase in Birmingham. A year 8 student. Thevindhu started paired lessons with Ellijah around eight months ago. The Sheffield Food festival will be his first performance to an audience.'
+    bioText.innerText='A year 8 student from Hope Valley College. Ellijah has been DJing for twelve months and already performed three sets, including a school music showcase in Birmingham. A year 8 student from Hope Valley College. Thevindhu started paired lessons with Ellijah around eight months ago. The Sheffield Food festival will be his first performance to an audience.'
 })
 
 const but7 = document.getElementById('but7').addEventListener('click', () => {

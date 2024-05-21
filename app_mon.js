@@ -42,9 +42,9 @@ const but27 = document.getElementById('but27').addEventListener('click', () => {
 })
 
 const but28 = document.getElementById('but28').addEventListener('click', () => {
-    bandTitles.innerText='Kyla C'
+    bandTitles.innerText='Kavita'
     bandImage.src ="image28.jpg" 
-    bioText.innerText="Kyla C is a regular on the dance, urban & soul nightclub scene sharing line-ups with many of the UK's biggest DJ's & artists."
+    bioText.innerText="Kavita is an Award Winning Lawyer/ DJ. Having played at some of the most iconic venues in the UK and abroad. Kavita continues to take her unique story to the road sharing her mix bag of tracks of funky, classic, disco, house music and entertaining music lovers wherever her journey takes her. (DJing between acts throughout the day)"
 })
 
 const but31 = document.getElementById('but31').addEventListener('click', () => {
