@@ -5,9 +5,9 @@ const bandImage = document.getElementById('bandImage')
 const bioText = document.getElementById('bioText')
 
 const but1 = document.getElementById('but1').addEventListener('click', () => {
-    bandTitles.innerText='Kali (WaterBear)'
+    bandTitles.innerText='James Brown (WaterBear)'
     bandImage.src ="image1.jpg"
-    bioText.innerText="With a focus on innovation and creativity, WaterBear empowers the next gen musicians and industry creatives to excel across various disciplines, preparing them for success in today's music industry."
+    bioText.innerText="I'm a singer-songwriter based in Sheffield, crafting and performing songs reminiscent of legends like Johnny Cash, Nick Cave, and Tom Petty. My music blends storytelling with rich sound that is both timeless and uniquely my own. My songs aim to connect deeply with listeners through powerful lyrics and compelling performances."
 })
 
 const but2 = document.getElementById('but2').addEventListener('click', () => {

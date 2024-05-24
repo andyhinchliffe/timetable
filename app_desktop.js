@@ -3,9 +3,9 @@ const bandImage = document.getElementById('bandImage')
 
 
 const but1 = document.getElementById('but1').addEventListener('click', () => {
-    bandTitles.innerText='Kali (Waterbear Collage)'
+    bandTitles.innerText='James Brown (Waterbear Collage)'
     bandImage.src ="image1.jpg"
-    bioText.innerText="With a focus on innovation and creativity, WaterBear empowers the next gen musicians and industry creatives to excel across various disciplines, preparing them for success in today's music industry."
+    bioText.innerText="I'm a singer-songwriter based in Sheffield, crafting and performing songs reminiscent of legends like Johnny Cash, Nick Cave, and Tom Petty. My music blends storytelling with rich sound that is both timeless and uniquely my own. My songs aim to connect deeply with listeners through powerful lyrics and compelling performances."
     
 })
 
@@ -161,9 +161,9 @@ const but22 = document.getElementById('but22').addEventListener('click', () => {
 })
 
 const but23 = document.getElementById('but23').addEventListener('click', () => {
-    bandTitles.innerText='Penny'
+    bandTitles.innerText='Tara And Chris Marshall-Unitt'
     bandImage.src ="image23.jpg"
-    bioText.innerText="Penny is a self-produced and self-taught singer / songwriter with a catalogue of meticulously crafted songs."
+    bioText.innerText="Tara and Chris Marshall-Unitt are a dynamic musical duo, both on stage and in life. Married and musically intertwined, they bring a unique blend of rock, folk, and theatrical flair to their performances. Their journey as a musical duo has seen them perform at numerous fundraisers and open mics with Butter Side Up Theatre Company, where their synergy and love for music shine through."
 })
 
 const but24 = document.getElementById('but24').addEventListener('click', () => {
